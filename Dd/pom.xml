@@ -2,17 +2,11 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.pe</groupId>
-  <artifactId>Git</artifactId>
+  <artifactId>Dd</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>Git Maven Webapp</name>
+  <name>Dd Maven Webapp</name>
   <url>http://maven.apache.org</url>
-  <properties>
-		<maven.compiler.source>1.8</maven.compiler.source>
-		<maven.compiler.target>1.8</maven.compiler.target>
-		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<failOnMissingWebXml>false</failOnMissingWebXml>
-	</properties>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
@@ -22,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>Git</finalName>
+    <finalName>Dd</finalName>
   </build>
 </project>
